@@ -20,6 +20,7 @@ import MovieForm from "./components/MoviForm/MoviForm.jsx";
 import MovieDashboard from "./Pages/Dashboard/DashBoard.jsx";
 
 import "./web.css";
+import DisplayContent from "./Components/Flex/DisplayContent.jsx";
 
 function App() {
   return (
@@ -36,6 +37,8 @@ function App() {
                 <MoviApi />
                 <Web_Series />
                 <MovieDashboard />
+                <DisplayContent />
+
                 <Footer />
               </>
             }
