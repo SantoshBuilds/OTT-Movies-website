@@ -3,7 +3,7 @@ const router = express.Router();
 const User = require("../Module/User"); // User schema
 const bcrypt = require("bcrypt");
 
-// Signup Route ...........vikash kumar
+// Signup Route ...........santosh kumar
 router.post("/signup", async (req, res) => {
   try {
     const { name, email, password } = req.body;
@@ -25,7 +25,7 @@ router.post("/signup", async (req, res) => {
   }
 });
 
-//This is Login Route side ................Vikash
+//This is Login Route side ................santosh kumar
 
 router.post("/login", async (req, res) => {
   const { email, password } = req.body;
