@@ -16,7 +16,7 @@ import Footer from "./Footer/Footer.jsx";
 import { MoviApi } from "./Components/Flex/MoviApi/MoviApi.jsx";
 
 // ✅ You forgot to import MovieForm
-import MovieForm from "./components/MoviForm/MoviForm.jsx";
+import MovieForm from "./Components/MoviForm/MoviForm.jsx";
 import MovieDashboard from "./Pages/Dashboard/DashBoard.jsx";
 
 import "./web.css";
