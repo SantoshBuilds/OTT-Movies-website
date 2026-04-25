@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import MovieCard from "../components/Flex/MoviesCard.jsx";
+import MovieCard from "../Components/Flex/MoviesCard.jsx";
 import { searchMedia } from "../Services/Service.jsx";
 
 const MoviesPage = () => {
