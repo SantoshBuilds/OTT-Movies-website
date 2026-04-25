@@ -2,9 +2,9 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import Navbar from "./components/Navbar/Navbar.jsx";
-import Login from "./components/LoginPage/Login.jsx";
-import Signup from "./components/LoginPage/SignUp.jsx";
+import Navbar from "./Components/Navbar/Navbar.jsx";
+import Login from "./Components/LoginPage/Login.jsx";
+import Signup from "./Components/LoginPage/SignUp.jsx";
 import Web_Series from "./Pages/Web_Serise.jsx";
 import About from "./Pages/About.jsx";
 import Contact from "./Pages/Contact.jsx";
