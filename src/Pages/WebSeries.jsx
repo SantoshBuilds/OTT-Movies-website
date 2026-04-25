@@ -1,4 +1,4 @@
-// src/components/WebSeriesPage.jsx
+// src/Components/WebSeriesPage.jsx
 import React from "react";
 
 const webSeriesData = [

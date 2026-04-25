@@ -1,5 +1,5 @@
 import React from "react";
-import SeriesCard from "../components/Flex/SeriesCard.jsx";
+import SeriesCard from "../Components/Flex/SeriesCard.jsx";
 
 const seriesList = [
   {
